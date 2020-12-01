@@ -1,4 +1,4 @@
-# chimera cpu emulator
+# Chimera CPU Emulator
 A completed university assignment that emulates the Chimera CPU.
 
 ## Introduction
