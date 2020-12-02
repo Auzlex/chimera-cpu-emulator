@@ -20,6 +20,6 @@ Then in the Debug folder run “Emulator.exe”.
 
 Now to run the emulator through tests in the “Emulator.exe” CMD window enter “T” and hit enter to run the emulator through testing with the marking server. 
 
-The programs will use loop back sockets to communicate between each other ports used (server 6532 and 6533).
+The programs will use loop back sockets to communicate between each other ports used (server **6532** and client **6533**).
 
 ![A Gif Image of the two programs running](https://i.imgur.com/BLNE9t4.gif)
